@@ -1,16 +1,16 @@
 # Contacts Manager Application
      
 ## Classes
-  #### Basics
-    Record class
-    Porgram class
- #### JDBC
-    Conn class for connecting the server
-    SQLScript class for creating the tables
-  #### GUI + Actions Implementation classes
-    MainGUI
-    AddContactGUI
-    EditContactGUI
+  - Basics
+    - Record class
+    - Porgram class
+ - JDBC
+    - Conn class for connecting the server
+    - SQLScript class for creating the tables
+  - GUI + Actions Implementation classes
+    - MainGUI
+    - AddContactGUI
+    - EditContactGUI
     
 ## Technologies
   JAVA,
